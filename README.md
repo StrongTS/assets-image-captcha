@@ -1,1 +1,1 @@
-image capture
+image captcha V2
